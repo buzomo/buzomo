@@ -1,3 +1,4 @@
 - [日記](https://へ.pw)
 - [財布の中身](https://金.へ.pw)
 - [wiki](https://へ.へ.pw)
+- [わたしのSDGs](https://buzomo.github.io/mySDGs/)
